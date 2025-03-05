@@ -1,8 +1,8 @@
-<h1 align="center">Realtime Spotify Application ✨</h1>
+<h1 align="center">Sunenewala Application ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Watch Full Tutorial on Youtube](https://youtu.be/4sbklcQ0EXc)
+!check out https://sunenewala-hch0.onrender.com/
 
 About This Course:
 
